@@ -1,8 +1,8 @@
 
-Si realizzi un programma ìfork2.cî che possa ricevere come
+/*Si realizzi un programma ‚Äúfork2.c‚Äù che possa ricevere come
 input un numero intero immesso da tastiera. A tale numero, il
-processo figlio creato somma 20, mentre il processo padre somma
-10.  
+processo figlio creato somma 20, mentre il processo padre somma 10.*/
+	
 #include <stdio.h>
 #include <unistd.h>
 #include <stdlib.h>
