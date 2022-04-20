@@ -1,8 +1,8 @@
 /*
  ============================================================================
-Alla stazione di una funivia, che pu� trasportare al massimo 20 persone,
+Alla stazione di una funivia, che può trasportare al massimo 20 persone,
 ci sono due porte di accesso. Si ipotizza un flusso continuo di
-viaggiatori. Dopo l�arrivo del 20-esimo passeggero le porte si chiudono e
+viaggiatori. Dopo l'arrivo del 20-esimo passeggero le porte si chiudono e
 la funivia parte. Implementare il comportamento delle porte.
  ============================================================================
  */
